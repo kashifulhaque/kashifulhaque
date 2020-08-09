@@ -1,10 +1,10 @@
-# ٱلسَّلَامُ عَلَيْكُمْ 👋
-# Bonjour 👋
-# Hola 👋
-# Guten Tag 👋
-# 안녕하세요 👋
-# こんにちは 👋
-# नमस्ते 👋
+# ٱلسَّلَامُ عَلَيْكُمْ 🤲🏻
+# Bonjour 👋🏻
+# Hola 🤠
+# Guten Tag 🧪
+# 안녕하세요 🌏
+# こんにちは 🍙
+# नमस्ते 🙏🏻
 
 <!--
 **kashifulhaque/kashifulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
