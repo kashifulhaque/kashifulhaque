@@ -6,6 +6,8 @@
 # こんにちは 🍙
 # नमस्ते 🙏🏻
 
+![](https://hit.yhype.me/github/profile?user_id=37375667)
+
 <!--
 **kashifulhaque/kashifulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
