@@ -1,7 +1,8 @@
 <h2>Hi, I am Kashif. 👋🏻</h2>
 
 <span>👨‍🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a> 🎓</span> •
-<span>🌏 Data Scientist at <a href="https://www.efi.com/">EFI</a> 🧪</span>
+<span>🌏 Data Scientist at <a href="https://www.efi.com/">EFI</a> 🧪</span> •
+<span>🗺 Bengaluru, India 📍</span>
 
 <hr />
 
