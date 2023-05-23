@@ -1,11 +1,4 @@
 <h2>Hi, I am Kashif. 👋🏻</h2>
-
-<div>👨‍🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a> 🎓</div>
-<div>🌏 Data Scientist at <a href="https://www.efi.com/">EFI</a> 🧪</div>
-<div>🗺 Bengaluru, India 📍</div>
-
-<hr />
-
 <a href="https://leetcode.com/ifkash">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -25,3 +18,8 @@
 <a href="https://www.instagram.com/enderboi25">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<div>👨‍🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a> 🎓</div>
+<div>🌏 Data Scientist at <a href="https://www.efi.com/">EFI</a> 🧪</div>
+<div>🗺 Bengaluru, India 📍</div>
+<hr />
