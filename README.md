@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<div>👨‍🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a> 🎓</div>
-<div>🌏 Data Scientist at <a href="https://www.efi.com/">EFI</a> 🧪</div>
-<div>🗺 Bengaluru, India 📍</div>
+<div>🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a></div>
+<div>🧪 Data Scientist at <a href="https://www.efi.com/">EFI</a></div>
+<div>📍 Bengaluru, India</div>
 
 <hr />
 
