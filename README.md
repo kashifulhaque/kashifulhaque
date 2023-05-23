@@ -21,7 +21,7 @@
 
 <div>🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a></div>
 <div>🧪 Data Scientist at <a href="https://www.efi.com/">EFI</a></div>
-<div>📍 Bengaluru, India</div>
+<div>🌏 Bengaluru, India</div>
 
 <hr />
 
