@@ -26,3 +26,5 @@
 <hr />
 
 <a href="https://ifkash.pages.dev">My Resume 🕸</a> • <a href="https://ifkash.hashnode.dev">My blog 📃</a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashifulhaque&theme=nord_dark)
