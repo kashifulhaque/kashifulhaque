@@ -24,9 +24,9 @@
 </a>
 
 <div>🎓 Data Science student at <a href="https://www.iitm.ac.in">Indian Institute of Technology, Madras</a></div>
-<div>🧪 Data Scientist at <a href="https://www.efi.com/">EFI</a></div>
+<div>🧪 Associate Software Engineer, Data Science at <a href="https://www.efi.com/">Fiery (previously EFI)</a></div>
 <div>🌏 Bengaluru, India</div>
-<div>👉 <a href="https://ifkash.pages.dev">My Resume</a></div>
+<div>👉 <a href="https://ifkash.vercel.app">My Resume website</a></div>
 
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashifulhaque&theme=nord_dark)
