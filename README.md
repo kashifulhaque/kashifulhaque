@@ -27,7 +27,7 @@
 <div>🧪 Associate Software Engineer, Data Science at <a href="https://www.efi.com/">Fiery (previously EFI)</a></div>
 <div>🌏 Bengaluru, India</div>
 <div>👉 <a href="https://ifkash.vercel.app">My Resume website</a></div>
-<div><a href="https://gist.github.com/kashifulhaque">My GitHub gist</a></div>
+<div>🐙 <a href="https://gist.github.com/kashifulhaque">My GitHub gist</a></div>
 
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashifulhaque&theme=nord_dark)
